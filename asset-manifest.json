@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/topcodekay/Expenses-App/static/css/main.88960c8b.css",
+    "main.js": "/topcodekay/Expenses-App/static/js/main.1e2a442b.js",
+    "index.html": "/topcodekay/Expenses-App/index.html",
+    "main.88960c8b.css.map": "/topcodekay/Expenses-App/static/css/main.88960c8b.css.map",
+    "main.1e2a442b.js.map": "/topcodekay/Expenses-App/static/js/main.1e2a442b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88960c8b.css",
+    "static/js/main.1e2a442b.js"
+  ]
+}
